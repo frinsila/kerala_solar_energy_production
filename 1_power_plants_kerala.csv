@@ -1,0 +1,11 @@
+plant_name,location,latitude,longitude,area_type,installed_capacity_mw,annual_estimated_production_gwh
+Kasaragod Solar Park,Kasaragod,12.5000,75.0000,ground_utility,50,75
+Cochin International Airport Solar Plant,Kochi,10.1520,76.4019,airport_solar_farm,40,60
+Kayamkulam Floating Solar Plant,Kayamkulam,9.1700,76.5000,floating_solar,0.5,0.7
+Rajiv Gandhi Indoor Stadium Solar System,Kochi,9.9312,76.2673,rooftop,1,1.4
+Kannur Airport Solar Project,Mattannur,11.9200,75.5500,airport_rooftop,2.5,3.5
+Technopark Solar Installation,Thiruvananthapuram,8.5560,76.8810,rooftop,2,2.8
+KSEB Kasaragod Rooftop Cluster,Kasaragod,12.5000,75.0000,rooftop_cluster,5,7.2
+Idukki Solar Hybrid Pilot,Idukki,9.8500,76.9700,hybrid_solar,1,1.3
+Alappuzha Canal Solar Pilot,Alappuzha,9.4981,76.3388,canal_solar_pilot,0.2,0.25
+Trivandrum International Airport Solar,Thiruvananthapuram,8.4821,76.9208,airport_rooftop,1.2,1.6
